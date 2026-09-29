@@ -1,0 +1,48 @@
+================================================================================
+                    SAFIA SWEETS - TIZIM PAROLLARI
+               (Safia Shelf-Life & Expiry Intelligence System)
+================================================================================
+
+Dastur manzillari:
+  • Kompyuterda: http://127.0.0.1:3000
+  • Telefon va planshetda (Wi-Fi orqali): http://192.168.1.88:3000
+  • Safia AI Copilot & Monitoring: Tizim ichida real vaqtda faol
+
+Diqqat: Xavfsizlik maqsadida dasturga kirishda login va parollar QO'LDA yoziladi.
+Avtomatik (1-bosishda) to'ldirish xavfsizlik talabiga ko'ra o'chirildi.
+
+--------------------------------------------------------------------------------
+1. BOSH ADMINISTRATOR (ADMIN)
+--------------------------------------------------------------------------------
+Login:    admin
+Parol:    admin123
+
+Huquqlari (To'liq cheksiz boshqaruv - Full Access):
+  • Barcha filiallar nazorati (BR-01 dan BR-05 gacha)
+  • Mahsulotlar to'liq katalogi (qo'shish, tahrirlash, o'chirish)
+  • Yaroqlilik muddatlari va chegirma mezonlarini (soat, foiz) o'zgartirish
+  • Chiqitga chiqarish tovar nakladnoylarini tasdiqlash va chop etish
+  • Excel orqali ommaviy yuklash va barcha hisobotlarni Excel ga eksport qilish
+  • Kassa (POS) xavfsizlik tekshiruvi
+  • Tizim ma'lumotlarini tozalash va sozlash
+
+--------------------------------------------------------------------------------
+2. XODIM / TOVARSHUNOS-OPERATOR
+--------------------------------------------------------------------------------
+Login:    xodim
+Parol:    xodim123
+
+Huquqlari (Kundalik operatsion faoliyat):
+  • Yaroqlilik matritsasini jonli kuzatish va nazorat qilish
+  • Yangi partiyalarni qabul qilish (Kirim - sutka yoki kalendardan belgilash)
+  • Lazer va optik shtrix-kod skaneri orqali partiyalarni tekshirish
+  • Muddati yaqinlashgan tovarlarga chegirma (markdown) qo'llash
+  • Muddati o'tgan tovarlarni hisobdan chiqarish (chiqit)ga yuborish
+  • Kassa (POS) tekshiruvi (mijozga sotishdan oldin yaroqlilik filtri)
+  • Excel orqali tovarlar yuklash
+  (Izoh: Filiallar sozlamalari va global admin mezonlari xodim uchun yopiq)
+
+================================================================================
+Tashkilot: «Safia Sweets» MChJ
+Yil: 2026
+================================================================================
